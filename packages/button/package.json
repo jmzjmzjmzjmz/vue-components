@@ -1,5 +1,5 @@
 {
-  "name": "lg-button",
+  "name": "jmz-button",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "3e6d989aa09577b139056d0124eb85aa3e70431a"
 }

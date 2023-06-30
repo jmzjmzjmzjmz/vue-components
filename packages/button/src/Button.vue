@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name:'LgButton',
+  name:'JmzButton',
     props: {
         label: {
         type: String,
